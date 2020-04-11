@@ -1,0 +1,106 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+#navigation
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.strong
+{
+    color:red;
+    font-size:30px;
+}
+
+#heading_part
+{
+    text-align:center;
+    height:500px;
+      
+    color: #dd2c00;
+
+    background-image: url("background-images/background\ 6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 10px;
+    font-family: 'Roboto Slab', serif;
+    font-weight:2.5;
+}
+
+.para-2
+{
+    color: #442727;
+    font-size: 20px;
+}
+.heading 
+{
+    padding-top:200px;
+}
+
+#navigation-bar-2
+{
+    text-align:center;
+    background-color:lightgrey;
+
+    color:white;
+
+    font-family: 'Dancing Script', cursive;
+}
+
+.search
+{
+    padding:10px;
+}
+
+.btn:hover{
+    color:lightpink;
+}
+
+#data
+{
+    text-align:center;
+    background-color: lightgoldenrodyellow;
+    padding:10% 10%;
+
+    font-family: 'Merriweather', serif;
+}
+
+.html
+{
+    color: lightpink;
+}
+
+.css{
+    color: lightpink;
+}
+
+.graph{
+    color: lightpink;
+}
+
+.html:hover
+{
+    color:pink;
+}
+.css:hover
+{
+    color:pink;
+}
+.graph:hover
+{
+    color:pink;
+}
+
+#copyright
+{
+    text-align:center;
+    background-color: lightgreen;
+}
+
+.copyright
+{
+    padding-top:10px;
+}
